@@ -1,2 +1,2 @@
 This is a line.
-Second line.
+Second line
